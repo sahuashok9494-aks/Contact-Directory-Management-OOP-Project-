@@ -1,0 +1,62 @@
+//Input and Output
+
+Enter maximum number of contacts: 3
+
+===== CONTACT DIRECTORY =====
+1. Add Contact
+2. Search Contact
+3. Delete Contact
+4. Display All Contacts
+5. Exit
+Enter your choice: 1
+Enter Name: Rahul
+Enter Phone: 9876543210
+Contact added successfully
+
+===== CONTACT DIRECTORY =====
+Enter your choice: 1
+Enter Name: Aman
+Enter Phone: 9123456780
+Contact added successfully
+
+===== CONTACT DIRECTORY =====
+Enter your choice: 4
+
+Contact List:
+Name: Rahul
+Phone: 9876543210
+-------------------
+Name: Aman
+Phone: 9123456780
+-------------------
+
+===== CONTACT DIRECTORY =====
+Enter your choice: 2
+Enter name to search: rahul
+
+Name: Rahul
+Phone: 9876543210
+
+===== CONTACT DIRECTORY =====
+Enter your choice: 3
+Enter name to delete: Rahul
+
+Contact deleted successfully
+
+===== CONTACT DIRECTORY =====
+Enter your choice: 4
+
+Contact List:
+Name: Aman
+Phone: 9123456780
+-------------------
+
+===== CONTACT DIRECTORY =====
+Enter your choice: 2
+Enter name to search: Rahul
+
+Contact not found
+
+===== CONTACT DIRECTORY =====
+Enter your choice: 5
+Exiting program...
